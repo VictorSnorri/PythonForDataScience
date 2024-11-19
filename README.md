@@ -10,8 +10,9 @@ This repository contains weekly assignments for the Python for Data Science cour
 - [Week 1](https://github.com/VictorSnorri/PythonForDataScience/Assignment_1): Python - Basics
 -
 <br>
-<br>
-  # Table of Contents
+<be>
+
+## Table of Contents
 
 <br>
 <be>
