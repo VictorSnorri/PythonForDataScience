@@ -1,11 +1,11 @@
-### Python for Data Science - Weekly Assignments
+# Python for Data Science - Weekly Assignments
 
 This repository contains weekly assignments for the Python for Data Science course. Each branch corresponds to a specific week's assignment, focusing on key Python and data science concepts.
 
 <br>
 <be>
 
-# Weeks
+## Weeks
 
 - [Week 1](https://github.com/VictorSnorri/PythonForDataScience/Assignment_1): Python - Basics
 -
