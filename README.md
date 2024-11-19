@@ -1,4 +1,15 @@
-# Week 1) - Python - Basics
+Python for Data Science - Weekly Assignments
+
+This repository contains weekly assignments for the Python for Data Science course. Each branch corresponds to a specific week's assignment, focusing on key Python and data science concepts.
+
+## Weeks
+
+- [Week 1](https://github.com/VictorSnorri/PythonForDataScience/Assignment_1): Python - Basics
+-
+  # Table of Contents
+
+<br>
+<br># Week 1) - Python - Basics
 ### Python - Syntax and Variables
 - **Exercise 1: Print a Greeting**
 - **Exercise 2: Basic Arithmetic**
