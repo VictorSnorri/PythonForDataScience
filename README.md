@@ -1,8 +1,3 @@
-# Table of Contents
-
-<br>
-<br>
-
 # Week 1) - Python - Basics
 ### Python - Syntax and Variables
 - **Exercise 1: Print a Greeting**
