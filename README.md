@@ -56,4 +56,13 @@ This repository contains weekly assignments for the Python for Data Science cour
 - **Exercise 16: Nested Data Structures**
 - **Exercise 17: Simple Calculator**
 
-## Week 2) - Python - Functions and Data Filtering
+# Week 2) - Python - Functions and Data Filtering
+
+### Exercises
+
+- **Exercise 1:** FizzBuzz
+- **Exercise 2:** Basic Data Filtering
+- **Exercise 3:** Simple To-Do List
+- **Exercise 4:** Temperature Converter
+                   
+
