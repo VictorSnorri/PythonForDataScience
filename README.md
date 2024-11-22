@@ -5,21 +5,21 @@ This repository contains weekly assignments for the Python for Data Science cour
 <br>
 <be>
 
-## Weeks
-
-
-- [Week_1](https://github.com/VictorSnorri/PythonForDataScience/Assignment_1): Python - Basics
-- [Week_2](https://github.com/VictorSnorri/PythonForDatascience/Assignment_2):
-- [Week_3](https://github.com/VictorSnorri/PythonForDatascience/Assignment_3):
-- [Week_4](https://github.com/VictorSnorri/PythonForDatascience/Assignment_4):
-- [Week_5](https://github.com/VictorSnorri/PythonForDatascience/Assignment_5):
-<br>
-<be>
-
 ## Table of Contents
 
 <br>
+
+
+- [Week_1](https://github.com/VictorSnorri/PythonForDataScience/Assignment_1): Python - Basics
+- [Week_2](https://github.com/VictorSnorri/PythonForDatascience/Assignment_2): Python - Object-Oriented Programming
+- [Week_3](https://github.com/VictorSnorri/PythonForDatascience/Assignment_3): Pyhton - Registration Class
+- [Week_4](https://github.com/VictorSnorri/PythonForDatascience/Assignment_4): Python - Basic Libraries and File Management
+- [Week_5](https://github.com/VictorSnorri/PythonForDatascience/Assignment_5):
+  
+<br>
 <be>
+
+
   
 ## Week 1) - Python - Basics
   
@@ -86,6 +86,10 @@ This repository contains weekly assignments for the Python for Data Science cour
 - `enroll(course)`: Enrolls the student in a course.
 - `drop(course)`: Drops the student from a course.
 - `show_courses()`: Shows all registered courses.
+
+<be>
+<be>
+
 
 ### Exercise 3: Registration Class
 **Description:** Create a `Registration` class that manages courses and students. 
