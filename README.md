@@ -10,7 +10,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 <br>
 
 
-- [Week_1](https://github.com/VictorSnorri/PythonForDataScience/Assignment_1): Python - Basics
+- [Week_1](https://github.com/VictorSnorri/PythonForDataScience/tree/Assignment_1): Python - Basics
 - [Week_2](https://github.com/VictorSnorri/PythonForDatascience/Assignment_2): Python - Object-Oriented Programming
 - [Week_3](https://github.com/VictorSnorri/PythonForDatascience/Assignment_3): Pyhton - Registration Class
 - [Week_4](https://github.com/VictorSnorri/PythonForDatascience/Assignment_4): Python - Basic Libraries and File Management
