@@ -3,7 +3,7 @@
 This repository contains weekly assignments for the Python for Data Science course. Each branch corresponds to a specific week's assignment, focusing on key Python and data science concepts.
 
 <br>
-<be>
+
 
 ## Table of Contents
 
@@ -17,8 +17,8 @@ This repository contains weekly assignments for the Python for Data Science cour
 - [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5):
   
 <br>
-<br>
 
+<br>
 
   
 ## Week 1) - Python - Basics
@@ -57,6 +57,8 @@ This repository contains weekly assignments for the Python for Data Science cour
 - **Exercise 16: Nested Data Structures**
 - **Exercise 17: Simple Calculator**
 
+<br>
+
 # Week 2) - Python - Functions and Data Filtering
 
 ### Exercises
@@ -66,8 +68,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 - **Exercise 3:** Simple To-Do List
 - **Exercise 4:** Temperature Converter
 
-<be>
-<be>
+<br>
   
 # week 3) - Python - Object-Oriented Programming
 
@@ -87,8 +88,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 - `drop(course)`: Drops the student from a course.
 - `show_courses()`: Shows all registered courses.
 
-<be>
-<be>
+<br>
 
 
 ### Exercise 3: Registration Class
@@ -112,20 +112,6 @@ This repository contains weekly assignments for the Python for Data Science cour
 
 <br>
 <br>
-<be>
-
-
-### Exercise 4: Adding Grades and GPA Calculation
-**Description:** Extend the `Student` class to manage grades for each course and calculate the GPA.
-
-**Methods:**
-- `add_grade(course, grade)`: Adds a grade for a student in a specific course.
-- `GPA()`: Calculates the student's GPA based on enrolled courses and grades.
-
-
-<br>
-<br>
-<be>
 
 # Week 4) - Python - Basic Libraries and File Management
 
@@ -185,7 +171,6 @@ This repository contains weekly assignments for the Python for Data Science cour
 
 <br>
 <br>
-<be>
 
 
 
