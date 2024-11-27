@@ -14,7 +14,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 - [Week_2](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_2): Python - Object-Oriented Programming
 - [Week_3](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_3): Pyhton - Registration Class
 - [Week_4](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_4): Python - Basic Libraries and File Management
-- [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5):
+- [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5): Python - Advanced Libraries & File Management 
   
 <br>
 
@@ -170,7 +170,31 @@ This repository contains weekly assignments for the Python for Data Science cour
 
 
 <br>
-<br>
+<be>
+
+# Week 5) - Advanced Libraries & File Management 
+
+### Exercise 1: Monthly Annotation Counts
+- **Description:** Analyze annotation files to count the number of annotations per month and identify which month has the highest count.
+- **Steps:**
+  - `Extract dates`: Parse dates from annotation filenames.
+  - `Count annotations`: Tally the number of annotations for each month and year.
+  - `Identify peak month`: Display the month with the highest count of annotations.
+    
+### Exercise 2: Grouping Annotations by Month
+**Description:** Group annotations by their corresponding months and save the results in various formats.
+**Sub-tasks:**
+  - **a.** `Save as JSON`: Save a dictionary where each month is a key, and the values are lists of annotation filenames.
+  - **b.** `Save as Pickle`: Serialize the dictionary using the Pickle library for efficient storage.
+  - **c.** `Save Detailed Dictionary`: Create dictionaries for each annotation with keys name and date, and save the updated data in Pickle format.
+
+### Exercise 3: Sorting Annotations by Date
+- **Description:** Print all annotations from the second half of 2024 in chronological order.
+- **Steps:**
+  - `Filter by date`: Extract annotations from July to December 2024.
+  - `Sort annotations`: Order annotations by their date in ascending order.
+  - `Display results`: Print the sorted list or indicate if no annotations exist for the specified period.
+
 
 
 
