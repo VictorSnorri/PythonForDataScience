@@ -59,7 +59,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 
 <br>
 
-# Week 2) - Python - Functions and Data Filtering
+## Week 2) - Python - Functions and Data Filtering
 
 ### Exercises
 
@@ -70,7 +70,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 
 <br>
   
-# week 3) - Python - Object-Oriented Programming
+## week 3) - Python - Object-Oriented Programming
 
 ### Exercise 1: Course Class
 **Description:** Create a `Course` class where each course has a name, a description, and a list of enrolled students.
@@ -113,7 +113,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 <br>
 <br>
 
-# Week 4) - Python - Basic Libraries and File Management
+## Week 4) - Python - Basic Libraries and File Management
 
 ### Exercise 1: Counting Files in a Directory
 - **Description:** Count the total number of files in a specified directory.
@@ -172,7 +172,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 <br>
 <be>
 
-# Week 5) - Advanced Libraries & File Management 
+## Week 5) - Advanced Libraries & File Management 
 
 ### Exercise 1: Monthly Annotation Counts
 - **Description:** Analyze annotation files to count the number of annotations per month and identify which month has the highest count.
