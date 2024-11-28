@@ -14,8 +14,8 @@ This repository contains weekly assignments for the Python for Data Science cour
 - [Week_2](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_2): Python - Object-Oriented Programming
 - [Week_3](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_3): Pyhton - Registration Class
 - [Week_4](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_4): Python - Basic Libraries and File Management
-- [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5): Python - Advanced Libraries & File Management 
-  
+- [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5): Python - Advanced Libraries & File Management
+- [Week_6](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_6): Python - Data Analysis with Pandas
 <br>
 
 <br>
@@ -195,6 +195,52 @@ This repository contains weekly assignments for the Python for Data Science cour
   - `Sort annotations`: Order annotations by their date in ascending order.
   - `Display results`: Print the sorted list or indicate if no annotations exist for the specified period.
 
+
+<br>
+<br>  
+
+
+## Week 6 - Data Analysis with Pandas
+
+### Netflix Dataset Analysis
+
+#### Exercise 1: Missing Ratings
+- **Description:** Identify the number of entries with missing ratings.
+- **Steps:**
+  - Use Pandas to check for null values in the `rating` column and count them.
+
+#### Exercise 2: Films from the Netherlands (2021)
+- **Description:** Count the number of films released in 2021 attributed to the Netherlands.
+- **Steps:**
+  - Filter the dataset by `country` ("Netherlands") and `release_year` (2021) and count the matching rows.
+
+#### Exercise 3: Complete Information in 2020 Movies
+- **Description:** Count movies released in 2020 that have no missing values in key columns.
+- **Steps:**
+  - Filter the dataset for `release_year` 2020, then check that columns like `director`, `cast`, `rating`, and `duration` have no null values.
+
+#### Exercise 4: Year with the Most Titles
+- **Description:** Determine which year had the highest number of titles released.
+- **Steps:**
+  - Group the dataset by `release_year`, count the titles, and identify the year with the maximum count.
+
+#### Exercise 5: Average Releases Since 2010
+- **Description:** Calculate the average number of releases per year from 2010 onward.
+- **Steps:**
+  - Filter the dataset for years greater than 2010, count the titles, and divide by the number of years in the range.
+<br> 
+
+### Titanic Dataset Analysis
+
+#### Exercise 1: Survival Rate by Gender
+- **Description:** Compute survival rates for male and female passengers.
+- **Steps:**
+  - Group passengers by `Sex`, calculate the percentage of survivors (`2urvived` = 1) for each gender.
+
+#### Exercise 2: Survival Percentage by Gender and Class
+- **Description:** Analyze survival percentages for each gender and passenger class.
+- **Steps:**
+  - Group the dataset by `Sex` and `Pclass`, calculate survivor and total passenger counts, and compute the percentage of survivors for each group.
 
 
 
