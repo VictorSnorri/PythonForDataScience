@@ -16,6 +16,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 - [Week_4](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_4): Python - Basic Libraries and File Management
 - [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5): Python - Advanced Libraries & File Management
 - [Week_6](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_6): Python - Data Analysis with Pandas
+- [Week_7](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_7): Python - Pandas II
 <br>
 
 <br>
@@ -241,6 +242,19 @@ This repository contains weekly assignments for the Python for Data Science cour
 - **Description:** Analyze survival percentages for each gender and passenger class.
 - **Steps:**
   - Group the dataset by `Sex` and `Pclass`, calculate survivor and total passenger counts, and compute the percentage of survivors for each group.
+
+<br> 
+<br>
+
+## Week 7 - Pandas II
+### Exercise 1: Extracting Initials
+  - **Description:** creating a new column and extracting Initials using the extract method
+### Exercise 2: Combine DataFrames
+  - **Description:** Combine Dataframes using JOIN (or not). 
+### Exercise 3: Combine DataFrames
+  - **Description:** Combine DataFrames based on the 'professor' column
+### Exercise 4: 
+  - **Description:** Create a new column for professor's last name
 
 
 
