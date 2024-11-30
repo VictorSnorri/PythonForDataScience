@@ -17,6 +17,7 @@ This repository contains weekly assignments for the Python for Data Science cour
 - [Week_5](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_5): Python - Advanced Libraries & File Management
 - [Week_6](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_6): Python - Data Analysis with Pandas
 - [Week_7](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_7): Python - Pandas II
+- [Week_8](https://github.com/VictorSnorri/PythonForDatascience/tree/Assignment_8): Python - Data Visualization
 <br>
 
 <br>
@@ -255,6 +256,54 @@ This repository contains weekly assignments for the Python for Data Science cour
   - **Description:** Combine DataFrames based on the 'professor' column
 ### Exercise 4: 
   - **Description:** Create a new column for professor's last name
+    
+<br> 
+<br>
+
+## Week 8 - Data Visualization 
+
+#### Exercise 1: Study Time Lineplot
+- **Description:** Create a lineplot showing how **Study Time** varies by **Student Name**.
+- **Steps:**
+  - Use Seaborn's `lineplot` to visualize the relationship.
+  - Analyze which student has the highest study time.
+- **Conclusion:** Edgar has the highest study time with 20.
+
+#### Exercise 2: Grade Histogram
+- **Description:** Plot a histogram of **Grade** to determine which grade range has the highest frequency of students.
+- **Steps:**
+  - Use Seaborn's `histplot` to create the histogram.
+  - Identify grade ranges with the highest frequency.
+- **Conclusion:** Both 85 and 90 have the highest frequency of students.
+
+#### Exercise 3: ECDF Plot for Grades
+- **Description:** Create an ECDF plot of **Grade** to analyze its distribution.
+- **Steps:**
+  - Use Seaborn's `ecdfplot` to visualize the cumulative distribution of grades.
+  - Determine the percentage of students scoring less than 85.
+- **Conclusion:** Approximately 28.6% of students scored below 85.
+
+#### Exercise 4: Grade Distribution by Course (Stripplot)
+- **Description:** Create a stripplot showing **Grade** distribution for each **Course**.
+- **Steps:**
+  - Use Seaborn's `stripplot` to visualize grade spread across courses.
+  - Analyze which course has the most widespread grades.
+- **Conclusion:** The course with the most widespread grades is Cloud Computing.
+
+#### Exercise 5: Study Time by Gender (Swarmplot)
+- **Description:** Create a swarmplot to analyze the relationship between **Gender** and **Study Time**.
+- **Steps:**
+  - Use Seaborn's `swarmplot` to visualize the data.
+  - Calculate average study time for each gender.
+- **Conclusion:** Mean study time is higher for female students.
+
+#### Exercise 6: Average Grade by Course (Pointplot)
+- **Description:** Create a pointplot to visualize the average **Grade** for each **Course**.
+- **Steps:**
+  - Use Seaborn's `pointplot` to plot average grades.
+  - Identify the course with the highest average grade.
+- **Conclusion:** The course with the highest average grade is Computer Vision.
+
 
 
 
